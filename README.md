@@ -1,2 +1,2 @@
 # Python-Project-for-Data-Science
-Final project - Extracting and visualizing Stock Date
+Final project - Extracting and visualizing Stock Data
